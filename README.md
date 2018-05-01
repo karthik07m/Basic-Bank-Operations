@@ -1,5 +1,4 @@
 # Basic-Bank-Operations
-Basic CRUD operations
 C - to create the new Account
 R - to fetch the existing single Account
 Rs - to fetch many Accounts
